@@ -24,13 +24,13 @@ repository               : "ssljd/ssljd.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jiadong Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "sljd37383@gmail.com" 
+  email            : "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" 
 
   # Academic websites
   academia         : # URL
